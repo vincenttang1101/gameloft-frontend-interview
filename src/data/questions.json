@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "question": "What is your role within the family?",
+      "choices": ["Mother", "Father", "Prefer not to say"],
+      "type": "singleSelection"
+    },
+    {
+      "id": 2,
+      "question": "When do you usually exercise?",
+      "choices": ["Morning", "Afternoon", "Evening"],
+      "type": "singleSelection"
+    },
+    {
+      "id": 3,
+      "question": "What language is spoken in your household",
+      "choices": ["Chinese", "English", "England", "Vietnamese", "Thailand"],
+      "type": "multipleSelection"
+    },
+    {
+      "id": 4,
+      "question": "What foods do you like to eat?",
+      "choices": ["Seafood fried rice", "Grilled shrimp", "King Crab", "Abalone"],
+      "type": "multipleSelection"
+    },
+    {
+      "id": 5,
+      "question": "Please tell us which touchscreen game, app or story you use most often with your child and why",
+      "type": "textInput"
+    },
+    {
+      "id": 6,
+      "question": "Please tell us what you like most about Gameloft?",
+      "type": "textInput"
+    }
+  ]
+}

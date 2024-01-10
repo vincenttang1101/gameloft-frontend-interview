@@ -1,0 +1,20 @@
+@media (max-width: 767.98px) {
+  .border-container {
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .desc-1::before,
+  .desc-1::after {
+    display: none !important;
+  }
+
+  .desc-2 {
+    display: none;
+  }
+
+  .cta-group {
+    flex-direction: column;
+    gap: 20px !important;
+  }
+}
